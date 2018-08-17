@@ -1,4 +1,4 @@
-# DemographicSegmentationModal-EuropeanBank-customer_will_leaving_bank
+# DemographicSegmentationModal-EuropeanBank-customer_will_leave_bank
 
 Here we have frictional un-real but realistic dataset of an European Bank. Our goal is to create <b>Demographic Segmentation Modal</b> to tell the bank which of their customers are at the highest risk of leaving the bank.
 
