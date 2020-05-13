@@ -45,4 +45,4 @@ True Positive (TP) = 200
 
 You will score <b>+86%</b> in this particular problem for now.
 
-Connect: https://www.linkedin.com/in/mrnikhilgupta/
+*<a href="https://www.linkedin.com/in/mrnikhilgupta/" target="_blank">Nikhil Gupta</a>* 
